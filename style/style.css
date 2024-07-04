@@ -1,0 +1,19 @@
+.home{
+    color:green;
+    text-align: right;
+    padding-right: 40px;
+}
+span{
+    padding-right: 15px;
+}
+.kobirul{
+    text-align: center;
+    color: rgb(85, 11, 11);
+}
+.kp{
+    display: block;
+    height: 300px;
+    border-radius: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
